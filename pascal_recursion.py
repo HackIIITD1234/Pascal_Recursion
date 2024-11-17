@@ -9,4 +9,4 @@ def pascal(n, l = [1]):
     #     l_.append(sum(l[i:i+2]))
     return pascal(n, l_)
 
-pascal(0)
+pascal(3)
